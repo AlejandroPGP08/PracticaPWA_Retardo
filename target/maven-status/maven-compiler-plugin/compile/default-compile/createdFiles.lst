@@ -1,0 +1,8 @@
+com\votingapp\model\Vote.class
+com\votingapp\VotingAppApplication.class
+com\votingapp\service\VotingService.class
+com\votingapp\model\SyncRequest.class
+com\votingapp\model\Results.class
+com\votingapp\model\VotingData.class
+com\votingapp\controller\VotingController.class
+com\votingapp\config\WebConfig.class
